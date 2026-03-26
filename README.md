@@ -10,7 +10,7 @@
 
 | Resource | URL |
 |----------|-----|
-| 🚀 Live Demo | https://aqua-safe-nexus-gb0dv0zwn-shuva-0s-projects.vercel.app/analyze|
+| 🚀 Live Demo | https://aqua-safe-nexus-gb0dv0zwn-shuva-0s-projects.vercel.app/ |
 | 💻 GitHub | https://github.com/shuva-0/AquaSafe-x |
 
 ---
